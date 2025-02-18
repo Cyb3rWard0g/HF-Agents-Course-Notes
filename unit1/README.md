@@ -17,3 +17,8 @@ This unit covers loading and interacting with language models, understanding tok
 ## Certificate of Completion
 
 ![](../images/Unit1_Certificate.png)
+
+## References
+
+* https://blog.openthreatresearch.com/demystifying-generative-ai-a-security-researchers-notes/
+* https://blog.openthreatresearch.com/rise-of-the-planet-of-the-agents/
